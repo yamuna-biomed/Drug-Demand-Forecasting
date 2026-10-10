@@ -1,0 +1,37 @@
+DRUG DEMAND FORECASTING REPORT
+==========================================================================================
+
+MODEL INFORMATION
+------------------------------------------------------------------------------------------
+Model Type: Linear Regression
+Training Data Points: 1661
+Testing Data Points: 416
+
+MODEL PERFORMANCE METRICS
+------------------------------------------------------------------------------------------
+Training R² Score: 0.4298
+Testing R² Score: 0.4123
+Training RMSE: $16.35
+Testing RMSE: $16.21
+
+HISTORICAL SALES STATISTICS
+------------------------------------------------------------------------------------------
+Average Daily Sales: $60.59
+Highest Daily Sales: $198.95
+Lowest Daily Sales: $0.00
+Total Period Sales: $127,595.50
+
+FORECAST SUMMARY (Next 90 Days)
+------------------------------------------------------------------------------------------
+Forecast Period: 2019-10-09 to 2020-01-06
+Average Predicted Daily Sales: $67.56
+Highest Predicted Daily Sales: $73.63
+Lowest Predicted Daily Sales: $61.43
+Total Forecasted Sales (90 days): $6,080.33
+
+MONTHLY FORECAST BREAKDOWN
+------------------------------------------------------------------------------------------
+2019-10: $1,472.85
+2019-11: $2,011.33
+2019-12: $2,177.64
+2020-01: $418.51
